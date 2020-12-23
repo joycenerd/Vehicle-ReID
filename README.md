@@ -18,7 +18,7 @@ Vehicle re-identification using AICITY Track 3 dataset.
 ### Step 1: Preprocess
 
 1. Get the data from AI City Challenge website: https://www.aicitychallenge.org/2020-data-and-evaluation/
-2. `cd ReID/precrocess`
+2. `cd precrocess`
 3. Change the path of data in `path.py`
 4. Execute `prepare_frame.py`, `extract_vehicle.py` and `extract_test.py` in order
 
