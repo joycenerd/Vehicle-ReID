@@ -25,7 +25,6 @@ Vehicle re-identification using AICITY Track 3 dataset.
 
 ### Step 2: ReID
 
-1. `cd ReID`
-2. Change some settings in `options.py`
-3. Execute `train_reid.py`
-4. You will get the reid model in `checkpoints`
+1. Change some settings in `options.py`
+2. Execute `train_reid.py`
+3. You will get the reid model in `checkpoints`
